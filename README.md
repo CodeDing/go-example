@@ -7,30 +7,32 @@
 
 ## Example
 
-** Type System **
-### slice, map and interface usage
+*Type System*
+    -slice, map and interface usage
 
-### sync: once, pool
+    -sync: once, pool
 
-### select
+    -select
 
-### channel
+    -channel
 
-** Buffer package **
+*Buffer package*
 
-### byte buffer
+    -byte buffer
 
-### bufio buffer
+    -bufio buffer
 
-** TCP/UDP and UNIX Socket **
 
-### dialer, accept, conn
+*TCP/UDP and UNIX Socket*
 
-** HTTP **
+    -dialer, accept, conn
 
-### path,method,handle
 
-### route,group,middleware
+*HTTP*
 
-### framework
+    -path,method,handle
+
+    -route,group,middleware
+
+    -framework
 

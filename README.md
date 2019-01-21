@@ -1,6 +1,6 @@
 # go-example
 
-** Just for fun **
+*Just for fun*
 
 ## Data Structure
 

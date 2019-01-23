@@ -1,0 +1,21 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "V6BLNpPxTKgb+AjtPk7wNMN5Now=",
+			"origin": "go-example/media_json2pb/vendor/adeaz.com/rtb/adx/wifi",
+			"path": "adeaz.com/rtb/adx/wifi",
+			"revision": "5cba64e7c859cfe033fb002444ce4cb8585ece29",
+			"revisionTime": "2019-01-21T07:57:54Z"
+		},
+		{
+			"checksumSHA1": "qlPUeFabwF4RKAOF1H+yBFU1Veg=",
+			"origin": "go-example/media_json2pb/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "5cba64e7c859cfe033fb002444ce4cb8585ece29",
+			"revisionTime": "2019-01-21T07:57:54Z"
+		}
+	],
+	"rootPath": "go-example"
+}

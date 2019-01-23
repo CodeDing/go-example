@@ -9,7 +9,7 @@
 
 *Type System*
 
-- slice, map and interface usage
+- atomic, slice, map and interface usage
 
 - sync: once, pool
 
@@ -36,4 +36,10 @@
 - route,group,middleware
 
 - framework
+    - gin-go
+    - fasthttp
 
+
+**Tools**
+- json2pb
+* media_json2pb

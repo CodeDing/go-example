@@ -1,0 +1,48 @@
+{
+    "sid": "1234567890abcdef",
+    "client_ip": "123.148.162.67",
+    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 7.1.1; OPPO R11t Build/NMF26X)",
+    "language": "zh-CN",
+    "net_type": 2,
+    "os": "Android",
+    "os_version": "7.1.1",
+    "device_info" : {
+        "type": 1,
+        "screen_width": 1080,
+        "screen_height": 1920,
+        "screen_density": 3,
+        "horizontal": false,
+        "vendor": "OPPO",
+        "model": "OPPO R11t"
+    },
+    "app_info" :{
+        "app_id": "A0008",
+        "app_name": "wifi万能钥匙",
+        "app_version": "3130",
+        "pkg_name": "com.snda.wifilocating",
+        "mkt": "nearme"
+    },
+    "id_info" : {
+        "imei": "99000536853277",
+        "mac": "8c:eb:c6:3a:c3:7b",
+        "android_id": "be37f110236fad8e"
+    },
+    "ad_slots" : [
+      {
+          "id": "1639",
+          "width": 720,
+          "height": 200,
+          "type": 0,
+          "ad_slot_type": 3,
+          "min_cpm": 0,
+          "req_num": 4,
+          "posid": [3,6],
+          "posid": [-1000002, -100003]
+      }
+    ],
+    "is_test": true,
+    "longitude": 121.684527,
+    "latitude": 31.248057,
+    "media_index": "1",
+    "is_https": false
+}

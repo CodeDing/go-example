@@ -25,6 +25,12 @@ var Res_Map = map[string]interface{}{
 	"wifi": wifi.RTBResponse{},
 }
 
+type Media struct {
+	Pid   int
+	Files []string
+	URL   string
+}
+
 func init() {
 
 }

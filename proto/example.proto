@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package example;
+
+//enum FOO { X = 0; };
+//
+//message Test {
+//    string label = 1;
+//    int32 type = 2 [default=77];
+//    int64 reps = 3;
+//    optional group OptionalGroup = 4 {
+//         string RequiredField = 5;
+//    }
+//    oneof test_oneof {
+//         string uuid = 6; 
+//         int32  id = 7;
+//    }
+//
+//    map<string, int32> maps = 8;
+//}
+
+import "google/protobuf/any.proto";
+
+message ErrorStatus {
+      string message = 1;
+      repeated google.protobuf.Any details = 2;
+}

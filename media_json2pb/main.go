@@ -18,7 +18,8 @@ var MediaFile_Map = map[string][]string{
 
 var URL_Map = map[string]string{
 	//"wifi": "http://sx.rtb.fastapi.net/?pid=17117",
-	"wifi": "http://sx.rtb.ggxt.net/?pid=17117",
+	//"wifi": "http://sx.rtb.ggxt.net/?pid=17117",
+	"wifi": "http://rtb.ggxt.net/?pid=17986",
 }
 
 var Res_Map = map[string]interface{}{

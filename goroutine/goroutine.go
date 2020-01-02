@@ -25,7 +25,7 @@ func main() {
 	fmt.Printf("%s\n", content)
 }
 
-func printChars(chs []rune, c chan rune) {
+func printChars(chs []rune, c chan<- rune) {
 	for i := 0; i < len(chs); i++ {
 		c <- chs[i]
 	}

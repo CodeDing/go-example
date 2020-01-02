@@ -108,7 +108,6 @@ const (
 )
 
 func main() {
-
 	medias := [...]string{"wifi"}
 	for _, m := range medias {
 		if files, ok := MediaFile_Map[m]; ok {

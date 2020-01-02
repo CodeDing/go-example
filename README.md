@@ -7,7 +7,7 @@
 
 ## Example
 
-*Type System*
+**Type System**
 
 - atomic, slice, map and interface usage
 
@@ -17,19 +17,19 @@
 
 - channel
 
-*Buffer package*
+**Buffer package**
 
 - byte buffer
 
 - bufio buffer
 
 
-*TCP/UDP and UNIX Socket*
+**TCP/UDP and UNIX Socket**
 
 - dialer, accept, conn
 
 
-*HTTP*
+**HTTP**
 
 - path,method,handle
 
@@ -38,6 +38,10 @@
 - framework
     - gin-go
     - fasthttp
+
+**NSQ**
+- producer
+- consumer
 
 
 **Tools**
